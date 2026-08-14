@@ -33,17 +33,6 @@
     "isNew": true
   },
   {
-    "id": "pdf_174_005",
-    "title": "Civil Excise Officer (Trainee)",
-    "paperCode": "05/2026",
-    "category": "12th Level",
-    "dateText": "23 May 2026",
-    "fileSize": "2.5 MB",
-    "thumbnailUrl": "https://lh3.googleusercontent.com/d/1cJFI1jXle8xTg-YHG19iSZJCYHi-2alc=w400",
-    "pdfUrl": "https://drive.google.com/file/d/1cJFI1jXle8xTg-YHG19iSZJCYHi-2alc/view?usp=sharing",
-    "isNew": true
-  },
-  {
     "id": "pdf_174_003",
     "title": "Police Constable (Trainee) Armed PoliceBattalion",
     "paperCode": "06/2026",
@@ -52,6 +41,17 @@
     "fileSize": "2.5 MB",
     "thumbnailUrl": "https://lh3.googleusercontent.com/d/1NMM2tFjKbxUqy1qxA8w--Hni8KcFpdVH=w400",
     "pdfUrl": "https://drive.google.com/file/d/1NMM2tFjKbxUqy1qxA8w--Hni8KcFpdVH/view?usp=sharing",
+    "isNew": true
+  },
+  {
+    "id": "pdf_174_005",
+    "title": "Civil Excise Officer (Trainee)",
+    "paperCode": "05/2026",
+    "category": "12th Level",
+    "dateText": "23 May 2026",
+    "fileSize": "2.5 MB",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/d/1cJFI1jXle8xTg-YHG19iSZJCYHi-2alc=w400",
+    "pdfUrl": "https://drive.google.com/file/d/1cJFI1jXle8xTg-YHG19iSZJCYHi-2alc/view?usp=sharing",
     "isNew": true
   },
   {
