@@ -1,13 +1,5 @@
 [
   {
-    "key": "rank_file",
-    "title": "Rank File",
-    "subtitle": "Full Digests & Yearbooks",
-    "color": "#D946EF",
-    "color2": "#C026D3",
-    "emoji": "🏆"
-  },
-  {
     "key": "study_notes",
     "title": "Study Notes",
     "subtitle": "Subject Wise Modules",
