@@ -1,7 +1,7 @@
 [
   {
     "key": "rank_file",
-    "title": "Rank Maker",
+    "title": "Rank File",
     "subtitle": "Full Digests & Yearbooks",
     "color": "#D946EF",
     "color2": "#C026D3",
@@ -22,5 +22,13 @@
     "color": "#3B82F6",
     "color2": "#2563EB",
     "emoji": "📄"
+  },
+  {
+    "key": "topic_4",
+    "title": "PSC Thriller",
+    "subtitle": "Digest & Modules",
+    "color": "#475569",
+    "color2": "#1E293B",
+    "emoji": "📚"
   }
 ]
