@@ -1,5 +1,23 @@
 [
   {
+    "id": "pw_1786936900322",
+    "title": "New demo",
+    "paperCode": "N/A",
+    "topic": "study_notes",
+    "subTopic": "General Science",
+    "childSubTopic": "Physics Basics",
+    "category": "Study Notes",
+    "theme": "blue",
+    "dateText": "Aug 2026",
+    "fileSize": "2.0 MB",
+    "thumbnailUrl": "https://drive.google.com/thumbnail?id=1pWdzu_EK5rCC5O5iSrAkrEDo04tZpk-u&sz=w400",
+    "pdfUrl": "https://drive.google.com/file/d/1pWdzu_EK5rCC5O5iSrAkrEDo04tZpk-u/view?usp=drive_link",
+    "pscFact": "The Kerala Public Service Commission (KPSC) conducts various examinations for recruitment to civil service posts in Kerala.",
+    "priority": 10,
+    "isNew": true,
+    "rawHtml": ""
+  },
+  {
     "id": "pw_seed_1",
     "title": "Kerala PSC Rank File — Complete Digest 2024",
     "paperCode": "RF-2024/01",
