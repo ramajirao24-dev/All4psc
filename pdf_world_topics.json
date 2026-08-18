@@ -14,5 +14,13 @@
     "color": "#3B82F6",
     "color2": "#2563EB",
     "emoji": "📚"
+  },
+  {
+    "key": "topic_3",
+    "title": "New Topic",
+    "subtitle": "Digest & Modules",
+    "color": "#F43F5E",
+    "color2": "#E11D48",
+    "emoji": "📚"
   }
 ]
