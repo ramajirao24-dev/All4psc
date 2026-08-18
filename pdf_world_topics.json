@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "key": "english",
+    "title": "English",
+    "subtitle": "Digest & Modules",
+    "color": "#0D9488",
+    "color2": "#059669",
+    "emoji": "📄"
+  }
+]
