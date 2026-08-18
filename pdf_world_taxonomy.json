@@ -1,5 +1,7 @@
 {
-  "topic_1": {},
+  "topic_1": {
+    "history": []
+  },
   "topic_2": {},
   "topic_3": {}
 }
