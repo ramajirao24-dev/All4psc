@@ -2,20 +2,20 @@
   "version": 1,
   "theme": {
     "auroraColors": [
-      "#FFD700",
-      "#FFA500",
-      "#FFECB3",
-      "#FFF8DC"
+      "#004D40",
+      "#00897B",
+      "#00C853",
+      "#A7FFEB"
     ],
-    "baseDark": "#2C1E0A",
-    "baseLight": "#FFF8DC",
-    "accent": "#FFC107"
+    "baseDark": "#121212",
+    "baseLight": "#F0FDF4",
+    "accent": "#00C853"
   },
   "hero": {
     "style": "AURORA_GLASS",
-    "headline": "സുവർണ്ണപ്രഭാതം\nPSC പഠനം",
-    "subtitle": "ശാന്തമായ തുടക്കം · വ്യക്തമായ പാതകൾ",
-    "badgeText": "അംബർ പ്രഭ",
+    "headline": "മാണിക്യ പ്രഭ\nപരിശീലനം",
+    "subtitle": "തെളിഞ്ഞ പാത · മിഴിവുള്ള വിജയം",
+    "badgeText": "എമറാൾഡ് ഗ്ലോ",
     "showLiveTicker": true
   },
   "layout": {
@@ -30,7 +30,7 @@
     "sessionsTitle": "Workout Sessions"
   },
   "card": {
-    "corner": 64.0,
+    "corner": 26.0,
     "glassOpacity": 0.14,
     "gradientAngle": 135
   },
