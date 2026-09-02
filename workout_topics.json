@@ -1,0 +1,42 @@
+[
+  {
+    "key": "it_cyber",
+    "title": "IT & Cyber Laws",
+    "subtitle": "Hex · Gray Code · IT Act Sections",
+    "emoji": "🛡️",
+    "color": "#7C3AED",
+    "color2": "#C026D3",
+    "order": 1,
+    "active": true
+  },
+  {
+    "key": "computer_basics",
+    "title": "Computer Fundamentals",
+    "subtitle": "OS · Memory · Software Types",
+    "color": "#2563EB",
+    "color2": "#06B6D4",
+    "emoji": "💻",
+    "order": 2,
+    "active": true
+  },
+  {
+    "key": "networking",
+    "title": "Networking & OSI",
+    "subtitle": "Layers · Devices · Topologies",
+    "color": "#0EA5E9",
+    "color2": "#6366F1",
+    "emoji": "🌐",
+    "order": 3,
+    "active": true
+  },
+  {
+    "key": "digital_banking",
+    "title": "Digital Banking & IT",
+    "subtitle": "UPI · NEFT · Cyber Security",
+    "color": "#059669",
+    "color2": "#10B981",
+    "emoji": "🏦",
+    "order": 4,
+    "active": true
+  }
+]
