@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "theme": {
+    "auroraColors": [
+      "#7C3AED",
+      "#C026D3",
+      "#F43F5E",
+      "#F59E0B"
+    ],
+    "baseDark": "#0B1120",
+    "baseLight": "#F8FAFC",
+    "accent": "#A855F7"
+  },
+  "hero": {
+    "style": "AURORA_GLASS",
+    "headline": "Question Paper\nWorkout",
+    "subtitle": "Train like toppers · Solve, reveal, master",
+    "badgeText": "WORKOUT ZONE",
+    "showLiveTicker": true
+  },
+  "layout": {
+    "topicGrid": "BENTO",
+    "sessionCardStyle": "GRADIENT_SHELF",
+    "sectionOrder": [
+      "hero",
+      "topics",
+      "sessions"
+    ],
+    "topicsTitle": "Choose Your Arena",
+    "sessionsTitle": "Workout Sessions"
+  },
+  "card": {
+    "corner": 26.0,
+    "glassOpacity": 0.14,
+    "gradientAngle": 135
+  },
+  "motion": {
+    "pressScale": 0.96,
+    "stagger": 70,
+    "aurora": true
+  }
+}
