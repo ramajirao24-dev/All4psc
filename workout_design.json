@@ -2,20 +2,20 @@
   "version": 1,
   "theme": {
     "auroraColors": [
-      "#00E5FF",
-      "#E000FF",
-      "#FFEA00",
-      "#00FFFF"
+      "#FFD700",
+      "#FFA500",
+      "#FFECB3",
+      "#FFF8DC"
     ],
-    "baseDark": "#000A1A",
-    "baseLight": "#F8FAFC",
-    "accent": "#00E5FF"
+    "baseDark": "#2C1E0A",
+    "baseLight": "#FFF8DC",
+    "accent": "#FFC107"
   },
   "hero": {
     "style": "AURORA_GLASS",
-    "headline": "Cyber-Q\nDrill",
-    "subtitle": "Hack the PSC · Decode your destiny",
-    "badgeText": "NEON MATRIX",
+    "headline": "സുവർണ്ണപ്രഭാതം\nPSC പഠനം",
+    "subtitle": "ശാന്തമായ തുടക്കം · വ്യക്തമായ പാതകൾ",
+    "badgeText": "അംബർ പ്രഭ",
     "showLiveTicker": true
   },
   "layout": {
@@ -30,7 +30,7 @@
     "sessionsTitle": "Workout Sessions"
   },
   "card": {
-    "corner": 26.0,
+    "corner": 64.0,
     "glassOpacity": 0.14,
     "gradientAngle": 135
   },
