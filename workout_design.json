@@ -2,20 +2,20 @@
   "version": 1,
   "theme": {
     "auroraColors": [
-      "#7C3AED",
-      "#C026D3",
-      "#F43F5E",
-      "#F59E0B"
+      "#00E5FF",
+      "#E000FF",
+      "#FFEA00",
+      "#00FFFF"
     ],
-    "baseDark": "#0B1120",
+    "baseDark": "#000A1A",
     "baseLight": "#F8FAFC",
-    "accent": "#A855F7"
+    "accent": "#00E5FF"
   },
   "hero": {
     "style": "AURORA_GLASS",
-    "headline": "Question Paper\nWorkout",
-    "subtitle": "Train like toppers · Solve, reveal, master",
-    "badgeText": "WORKOUT ZONE",
+    "headline": "Cyber-Q\nDrill",
+    "subtitle": "Hack the PSC · Decode your destiny",
+    "badgeText": "NEON MATRIX",
     "showLiveTicker": true
   },
   "layout": {
