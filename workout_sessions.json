@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "ws_1788366762",
+    "topicKey": "digital_banking",
+    "title": "New Workout Session",
+    "subtitle": "",
+    "badge": "NEW",
+    "difficulty": "Intermediate",
+    "questionCount": 0,
+    "durationText": "",
+    "dateText": "Sep 2026",
+    "youtubeUrl": "",
+    "color": "#7C3AED",
+    "color2": "#C026D3",
+    "priority": 10,
+    "introHtml": "",
+    "outroHtml": "",
+    "homework": [],
+    "questions": []
+  }
+]
