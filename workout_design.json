@@ -2,14 +2,14 @@
   "version": 1,
   "theme": {
     "auroraColors": [
-      "#90CAF9",
-      "#BBDEFB",
-      "#E3F2FD",
-      "#F7FBFF"
+      "#7C3AED",
+      "#C026D3",
+      "#F43F5E",
+      "#F59E0B"
     ],
-    "baseDark": "#0E1A2B",
-    "baseLight": "#FDFEFF",
-    "accent": "#90CAF9"
+    "baseDark": "#0B1120",
+    "baseLight": "#F8FAFC",
+    "accent": "#A855F7"
   },
   "hero": {
     "style": "AURORA_GLASS",
