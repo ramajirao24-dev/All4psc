@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "key": "topic_1",
+    "title": "New Topic",
+    "subtitle": "Digest & Modules",
+    "color": "#3B82F6",
+    "color2": "#2563EB",
+    "emoji": "📚"
+  }
+]
